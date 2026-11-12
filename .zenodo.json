@@ -1,0 +1,16 @@
+{
+  "title": "Personal communication",
+  "description": "Mathematical observations by Wöden Kusner that appear in others' work as personal communications or acknowledgments, recorded with dates and sources so they can be cited directly. Each entry has a fixed identifier (e.g. PC-2020-1).",
+  "creators": [
+    { "name": "Kusner, Wöden", "affiliation": "Lawrence University" }
+  ],
+  "upload_type": "publication",
+  "publication_type": "other",
+  "license": "cc-by-4.0",
+  "keywords": ["personal communication", "free boundary minimal surfaces", "critical catenoid", "plank problem", "rotational beta expansion"],
+  "related_identifiers": [
+    { "identifier": "10.48550/arXiv.2011.06884", "relation": "isReferencedBy", "scheme": "doi" },
+    { "identifier": "10.48550/arXiv.1509.04785", "relation": "isReferencedBy", "scheme": "doi" },
+    { "identifier": "https://wkusner.github.io/communications/", "relation": "isIdenticalTo", "scheme": "url" }
+  ]
+}

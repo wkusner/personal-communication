@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you cite an entry, please give its identifier (e.g. PC-2020-1) and this record's DOI."
+type: dataset
+title: "Personal communication"
+abstract: "Mathematical observations by Wöden Kusner that appear in others' work as personal communications or acknowledgments, recorded with dates and sources so they can be cited directly."
+authors:
+  - family-names: Kusner
+    given-names: "Wöden"
+    affiliation: Lawrence University
+version: "1.0.0"
+date-released: "2026-11-12"
+license: CC-BY-4.0
+url: "https://wkusner.github.io/communications/"
+keywords:
+  - personal communication
+  - free boundary minimal surfaces
+  - plank problem
