@@ -11,6 +11,7 @@ version: "1.0.0"
 date-released: "2026-11-12"
 license: CC-BY-4.0
 url: "https://wkusner.github.io/communications/"
+doi: "10.5281/zenodo.24173109"
 keywords:
   - personal communication
   - free boundary minimal surfaces
