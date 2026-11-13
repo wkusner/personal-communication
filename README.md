@@ -6,6 +6,8 @@ Mathematical contributions credited to me in other authors' work as personal com
 
 **Cite as:** W. Kusner, *Personal communication*, PC-YYYY-N, Zenodo, [doi:10.5281/zenodo.24173109](https://doi.org/10.5281/zenodo.24173109)
 
+**Sealed.** [`sealed/LEDGER.md`](sealed/LEDGER.md) lists SHA-256 hashes of private, dated notes, revealed if and when the idea appears in print.
+
 ---
 
 ### PC-2015-1
