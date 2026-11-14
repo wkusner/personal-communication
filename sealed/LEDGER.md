@@ -6,3 +6,4 @@ SHA-256 hashes of private, dated notes of ideas I have communicated. Each note i
 |---|---|---|---|
 | S-2026-1 | 2026-11-13 | `2304268dd6e3130115bb08cc332245e5c20cba41671e16e1077cb427ee89972b` | pending |
 | S-2026-2 | 2026-11-14 | `250d040766a29e976dc756f190524b119e5a7d0d893e4aa2ad0617cf4b6bc7f5` | pending |
+| S-2026-1b | 2026-11-14 | `4825459714d7de32b16913e6cd03461ca6771f06b02c7e18f0555a823e06eab2` | pending |
